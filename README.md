@@ -1,6 +1,12 @@
-# e_commerce_app
+# E_Commerce_App
 
-A new Flutter project.
+## E-Commerce App is a flutter project.
+I Use Riverpod package for State Management and I learned private Widget development, MVVM file structure.
+
+## A GIF from App
+
+![Desktop-2023 05 26-17 39 17 02 DVR_Trim](https://github.com/emrekaya035/e_commerce_app/assets/72754835/9c6f36ed-4dab-4f6a-b4d7-4de0be9d8e9e)
+
 
 ## Getting Started
 
