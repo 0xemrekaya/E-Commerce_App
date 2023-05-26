@@ -1,7 +1,7 @@
 # E_Commerce_App
 
 ## E-Commerce App is a flutter project.
-I Use Riverpod package for State Management and I learned private Widget development, MVVM file structure.
+I Used Riverpod package for State Management, I did private widget development and used MVVM file structure. 
 
 ## A GIF from App
 
